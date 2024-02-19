@@ -1,0 +1,38 @@
+/* Banner.css */
+.banner {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 20px;
+}
+
+h3{
+    font-family: serif;
+}
+
+.text h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-family: serif;
+}
+
+.text p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.text button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}
